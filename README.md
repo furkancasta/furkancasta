@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Furkan
 
-<!--
-**furkancasta/furkancasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unreal Engine Game Developer  
+🔧 Gameplay Systems
 
-Here are some ideas to get you started:
+## About Me
+I focus on building gameplay systems using Unreal Engine.
+Currently developing a tactical FPS gameplay prototype.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Project
+🔫 **SWAT FPS – Tactical FPS Prototype (UE5)**  
+Focused on core FPS mechanics and gameplay systems.
+
+## Tech Stack
+- Unreal Engine 5
+- Blueprints
+- Git & GitHub
+
+## Current Focus
+- FPS gameplay mechanics
+- Weapon & recoil systems
+- Gameplay systems design
