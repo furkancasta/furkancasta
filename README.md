@@ -6,7 +6,7 @@ I design and implement core gameplay mechanics, character systems, and AI behavi
 ## 🛠️ Technical Skills
 * *Engine:* Unreal Engine 5
 * *Scripting:* Blueprints (Proficient)
-* *Roadmap:* C++ (Learning)
+* *Roadmap:* C++
 
 
 ## 🎮 Focus Areas
